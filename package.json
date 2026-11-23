@@ -1,0 +1,9 @@
+{
+  "name": "fromapurbo-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix portfolio run dev",
+    "build": "npm --prefix portfolio run build",
+    "preview": "npm --prefix portfolio run preview"
+  }
+}
